@@ -1,3 +1,3 @@
 # -Pixel-Art-Maker
 7DaysofCodeChallenge
-https://github.com/dBeginning/-Pixel-Art-Maker.git
+ https://dbeginning.github.io/-Pixel-Art-Maker/
